@@ -1,2 +1,3 @@
-# ILPEmployeeCRUD
-ILP Employee CRUD Operations
+# EmployeeCRUD
+Employee CRUD Operations:
+create,Read,Update,Delete
